@@ -1,3 +1,9 @@
+# TengYoda Logistics V8.1 Layout Hotfix
+
+- Fixed duplicate header logo text
+- Added CSS/JS cache-busting parameters
+- Reinforced hero cards, social buttons, process section and responsive layout
+
 # TengYoda Logistics V8 International Marketing Edition
 
 GitHub Pages-ready static website for tengyodalogistics.com.
