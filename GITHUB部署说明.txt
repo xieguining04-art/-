@@ -1,7 +1,20 @@
-1. 解压ZIP。
-2. 打开 GlobalShip_V5_GitHub_Ready 文件夹。
-3. 全选里面所有文件和 assets 文件夹。
-4. 上传到 GitHub 仓库根目录；仓库首页必须直接看到 index.html。
-5. Settings > Pages > Deploy from a branch > main > /root > Save。
-6. 上线前替换 sales@example.com 和 WhatsApp号码 8613800000000。
-7. 表单目前是演示，需要接入 Formspree、HubSpot 或 CRM 才能真正收到询盘。
+GlobalShip 商业版 V6 上传说明
+
+一、先删除仓库中旧的网站文件（README.md可保留，也可以覆盖）。
+二、解压本压缩包。
+三、上传“压缩包里面的全部文件和assets文件夹”，不要只上传HTML。
+四、正确结构：
+index.html
+about.html
+services.html
+...
+assets/style.css
+assets/script.js
+
+五、GitHub Pages设置：Settings → Pages → Deploy from a branch → main → /root → Save。
+六、等待1-3分钟，按 Ctrl+F5 强制刷新。
+
+上线前必须修改：
+- 邮箱：xieguining04@gmail.com
+- WhatsApp：8618620244613
+可在所有文件中搜索并替换。
