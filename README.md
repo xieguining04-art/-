@@ -1,15 +1,17 @@
-# TengYoda Logistics V8.1 Layout Hotfix
+# TengYoda Logistics V9 – International Growth Edition
 
-- Fixed duplicate header logo text
-- Added CSS/JS cache-busting parameters
-- Reinforced hero cards, social buttons, process section and responsive layout
+Highlights:
+- New conversion-focused homepage
+- Clear service, route, process and trust sections
+- New case studies, resources and contact pages
+- Improved mobile navigation and responsive layout
+- WhatsApp floating quotation button
+- Updated SEO metadata, structured data and sitemap
+- Cache-busted CSS/JS for GitHub Pages
 
-# TengYoda Logistics V8 International Marketing Edition
-
-GitHub Pages-ready static website for tengyodalogistics.com.
-
-## Deploy
-Upload all files and the `assets` folder to the repository root. Keep the `CNAME` file. Enable GitHub Pages from `main / root`, then enable HTTPS.
-
-## Quote form
-The quote form uses a `mailto:` workflow because GitHub Pages is static. It opens the visitor's email app and does not store form data.
+Deploy:
+1. Extract this ZIP.
+2. Upload every file and the complete `assets` folder to the repository root.
+3. Keep the `CNAME` file.
+4. Commit changes and wait for GitHub Pages deployment.
+5. Hard-refresh the live website.
