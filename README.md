@@ -1,11 +1,9 @@
-# GlobalShip Logistics V7 International Flagship Edition
+# TengYoda Logistics V8 International Marketing Edition
 
-GitHub Pages-ready static commercial website for international freight enquiries.
+GitHub Pages-ready static website for tengyodalogistics.com.
 
-## Contact
-- Email: xieguining04@gmail.com
-- WhatsApp: +86 186 2024 4613
-- TikTok: @vinson300
-- Instagram: @vinson08251
+## Deploy
+Upload all files and the `assets` folder to the repository root. Keep the `CNAME` file. Enable GitHub Pages from `main / root`, then enable HTTPS.
 
-Upload all extracted files and folders to the repository root, then enable GitHub Pages from the `main` branch and `/root`.
+## Quote form
+The quote form uses a `mailto:` workflow because GitHub Pages is static. It opens the visitor's email app and does not store form data.

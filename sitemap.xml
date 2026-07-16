@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://xieguining04-art.github.io/globalship-website/</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/services.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/ocean-freight.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/air-freight.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/door-to-door.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/china-usa.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/china-europe.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/routes.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/industries.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/about.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/faq.html</loc></url>
-<url><loc>https://xieguining04-art.github.io/globalship-website/quote.html</loc></url>
+  <url><loc>https://tengyodalogistics.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tengyodalogistics.com/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/ocean-freight.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/air-freight.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/door-to-door.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-usa.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-europe.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-canada.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-australia.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-uk.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/china-uae.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/routes.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/industries.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/quote.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/privacy-policy.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/terms.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tengyodalogistics.com/cookie-policy.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

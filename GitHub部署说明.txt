@@ -1,0 +1,12 @@
+TengYoda Logistics V8 部署说明
+
+1. 解压 ZIP。
+2. 把解压后的全部文件上传到 GitHub 仓库根目录。
+3. 必须保留 assets 文件夹结构，不要把 style.css 和 script.js 单独放到根目录。
+4. Settings → Pages → Deploy from a branch → main → /(root)。
+5. CNAME 文件内容已经是 tengyodalogistics.com。
+6. DNS 保持 GitHub Pages 的 4 条 A 记录和 www CNAME。
+7. 域名验证成功后勾选 Enforce HTTPS。
+8. 上传后按 Ctrl+F5 强制刷新。
+
+注意：询价表单通过访客本机邮件客户端发送，不会在 GitHub Pages 服务器保存数据。
