@@ -1,0 +1,17 @@
+TengYoda Logistics V10 Blog Publishing System
+
+Added:
+- Blog navigation link across existing website pages
+- Jekyll-based article publishing system for GitHub Pages
+- Automatic Blog article list
+- SEO article layout with canonical URL, Open Graph and Article structured data
+- Automatic sitemap generation via jekyll-sitemap
+- RSS feed support via jekyll-feed
+- Article CTA and WhatsApp/email contact blocks
+- Responsive Blog/article styling
+- First sample SEO article: Shipping from China to Australia
+- Reusable Markdown article template
+- Chinese publishing guide
+
+Publishing workflow:
+Create a new Markdown file in _posts using YYYY-MM-DD-keyword.md, commit it, and GitHub Pages builds the article automatically.

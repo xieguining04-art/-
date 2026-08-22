@@ -1,0 +1,14 @@
+title: TengYoda Logistics
+url: https://tengyodalogistics.com
+baseurl: ""
+description: Practical freight forwarding guides, shipping routes and import advice from China.
+permalink: /blog/:title/
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+exclude:
+  - _templates
+  - ARTICLE_PUBLISHING_GUIDE_CN.md
+  - README.md
+  - GitHub部署说明.txt
